@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Drakemugisha
-- 👀 I’m interested in fullstack web development
+- 👀 I’m a fullstack web developer
 - 💞️ I’m looking to collaborate on fast responsive websites
+- I'm currently learning artificial intelligence and marchine learning
 
 
 <!---
